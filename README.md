@@ -1,2 +1,3 @@
 # philippeouellette.github.io
-my website
+<h1>Home network diagram</h1>
+![home network diagram](images/homelab.png)
